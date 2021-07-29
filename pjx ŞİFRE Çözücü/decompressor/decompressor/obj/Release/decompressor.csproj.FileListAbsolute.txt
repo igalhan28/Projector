@@ -1,0 +1,9 @@
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\bin\Release\decompressor.exe.config
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\bin\Release\decompressor.exe
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\bin\Release\decompressor.pdb
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\obj\Release\decompressor.Form1.resources
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\obj\Release\decompressor.Properties.Resources.resources
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\obj\Release\decompressor.csproj.GenerateResource.Cache
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\obj\Release\decompressor.csproj.CoreCompileInputs.cache
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\obj\Release\decompressor.exe
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\pjx ŞİFRE Çözücü\decompressor\decompressor\obj\Release\decompressor.pdb

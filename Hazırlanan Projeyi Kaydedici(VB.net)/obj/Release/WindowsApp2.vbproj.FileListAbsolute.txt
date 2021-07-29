@@ -1,0 +1,11 @@
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Release\Copyalayıcı.exe.config
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Release\Copyalayıcı.exe
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Release\Copyalayıcı.pdb
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Release\Copyalayıcı.xml
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Release\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Release\Copyalayıcı.Form1.resources
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Release\Copyalayıcı.Resources.resources
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Release\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Release\Copyalayıcı.exe
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Release\Copyalayıcı.xml
+C:\Projector Source Code\Projector S\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Release\Copyalayıcı.pdb

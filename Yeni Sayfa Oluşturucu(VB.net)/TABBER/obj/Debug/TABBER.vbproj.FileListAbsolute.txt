@@ -1,0 +1,20 @@
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\bin\Debug\TABBER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\bin\Debug\TABBER.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\bin\Debug\TABBER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\bin\Debug\TABBER.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\obj\Debug\TABBER.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\obj\Debug\TABBER.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\obj\Debug\TABBER.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\obj\Debug\TABBER.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\obj\Debug\TABBER.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\TABBER\TABBER\obj\Debug\TABBER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\bin\Debug\TABBER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\bin\Debug\TABBER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\bin\Debug\TABBER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\bin\Debug\TABBER.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\obj\Debug\TABBER.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\obj\Debug\TABBER.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\obj\Debug\TABBER.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\obj\Debug\TABBER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\obj\Debug\TABBER.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Yeni Sayfa Oluşturucu(VB.net)\TABBER\obj\Debug\TABBER.pdb

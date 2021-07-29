@@ -1,0 +1,22 @@
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\bin\Debug\LOADER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\bin\Debug\LOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\bin\Debug\LOADER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\bin\Debug\LOADER.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\obj\Debug\LOADER.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\obj\Debug\LOADER.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\obj\Debug\LOADER.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\obj\Debug\LOADER.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\obj\Debug\LOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\obj\Debug\LOADER.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\LOADER\LOADER\obj\Debug\LOADER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\bin\Debug\LOADER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\bin\Debug\LOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\bin\Debug\LOADER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\bin\Debug\LOADER.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\obj\Debug\LOADER.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\obj\Debug\LOADER.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\obj\Debug\LOADER.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\obj\Debug\LOADER.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\obj\Debug\LOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\obj\Debug\LOADER.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Projenin İçindeki Başlatıcı(VB.net)\LOADER\obj\Debug\LOADER.pdb

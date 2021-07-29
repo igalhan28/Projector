@@ -1,0 +1,33 @@
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\Copyalayıcı.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\Copyalayıcı.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\Copyalayıcı.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\Copyalayıcı.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\Copyalayıcı.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\Copyalayıcı.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\Copyalayıcı.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\Copyalayıcı.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\Copyalayıcı.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Debug\Copyalayıcı.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Debug\Copyalayıcı.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Debug\Copyalayıcı.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\bin\Debug\Copyalayıcı.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Debug\Copyalayıcı.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Debug\Copyalayıcı.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Debug\Copyalayıcı.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Debug\Copyalayıcı.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Hazırlanan Projeyi Kaydedici(VB.net)\obj\Debug\Copyalayıcı.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\bin\Debug\Copyalayıcı.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\bin\Debug\Copyalayıcı.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\bin\Debug\Copyalayıcı.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\bin\Debug\Copyalayıcı.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\obj\Debug\Copyalayıcı.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\obj\Debug\Copyalayıcı.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\obj\Debug\Copyalayıcı.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\obj\Debug\Copyalayıcı.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\ExKopyalayıcı(VB.net)\obj\Debug\Copyalayıcı.pdb

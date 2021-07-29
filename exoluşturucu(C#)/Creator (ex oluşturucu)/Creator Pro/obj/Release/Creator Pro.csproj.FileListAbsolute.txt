@@ -1,0 +1,29 @@
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Creator Pro.exe.config
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Creator Pro.exe
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Creator Pro.pdb
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Interop.WMPLib.dll
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\AxInterop.WMPLib.dll
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.csprojResolveAssemblyReference.cache
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Interop.WMPLib.dll
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\AxInterop.WMPLib.dll
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.csproj.ResolveComReference.cache
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator_Pro.Form1.resources
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator_Pro.Properties.Resources.resources
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.csproj.GenerateResource.Cache
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.exe
+C:\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.pdb
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Creator Pro.exe.config
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Creator Pro.exe
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Creator Pro.pdb
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\Interop.WMPLib.dll
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\bin\Release\AxInterop.WMPLib.dll
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.csprojResolveAssemblyReference.cache
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Interop.WMPLib.dll
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\AxInterop.WMPLib.dll
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.csproj.ResolveComReference.cache
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator_Pro.Form1.resources
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator_Pro.Properties.Resources.resources
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.csproj.GenerateResource.Cache
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.csproj.CoreCompileInputs.cache
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.exe
+C:\Users\igalhan28\OneDrive\Projector Source Code\Projector S\exoluşturucu(C#)\Creator (ex oluşturucu)\Creator Pro\obj\Release\Creator Pro.pdb

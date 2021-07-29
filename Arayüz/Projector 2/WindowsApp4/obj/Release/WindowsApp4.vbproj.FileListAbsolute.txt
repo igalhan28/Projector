@@ -1,0 +1,16 @@
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\WindowsApp4.vbprojResolveAssemblyReference.cache
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\WindowsApp4.vbproj.GenerateResource.Cache
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\bin\Release\Projector.exe.config
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\bin\Release\Projector.exe.manifest
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\bin\Release\Projector.application
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\bin\Release\Projector.exe
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\bin\Release\Projector.pdb
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\bin\Release\Projector.xml
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.Form1.resources
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.Resources.resources
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.TrustInfo.xml
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.exe.manifest
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.application
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.exe
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.xml
+C:\Projector Source Code\Projector S\Arayüz\Projector 2\WindowsApp4\obj\Release\Projector.pdb
