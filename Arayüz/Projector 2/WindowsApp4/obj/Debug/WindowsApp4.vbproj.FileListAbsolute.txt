@@ -1,0 +1,37 @@
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.whatsnew.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Neler_Yeni.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.Neler_Yeni.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.whatsnew.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\obj\Debug\WindowsApp4.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz\Projector 2\WindowsApp4\bin\Debug\WindowsApp4.xml

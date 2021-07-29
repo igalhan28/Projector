@@ -1,0 +1,11 @@
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\bin\Debug\Assosicate.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\bin\Debug\Assosicate.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\bin\Debug\Assosicate.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\bin\Debug\Assosicate.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\obj\Debug\Assosicate.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\obj\Debug\Assosicate.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\obj\Debug\Assosicate.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\obj\Debug\Assosicate.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\obj\Debug\Assosicate.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\obj\Debug\Assosicate.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\İlişkilendirici(C#)\Assosicate\Assosicate\obj\Debug\Assosicate.pdb

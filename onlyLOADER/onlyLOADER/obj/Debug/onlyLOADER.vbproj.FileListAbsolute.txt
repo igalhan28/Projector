@@ -1,0 +1,11 @@
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\bin\Debug\onlyLOADER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\bin\Debug\onlyLOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\bin\Debug\onlyLOADER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\bin\Debug\onlyLOADER.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\obj\Debug\onlyLOADER.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\obj\Debug\onlyLOADER.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\obj\Debug\onlyLOADER.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\obj\Debug\onlyLOADER.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\obj\Debug\onlyLOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\obj\Debug\onlyLOADER.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\onlyLOADER\onlyLOADER\obj\Debug\onlyLOADER.pdb

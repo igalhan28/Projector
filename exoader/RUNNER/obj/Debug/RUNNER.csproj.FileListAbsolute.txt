@@ -1,0 +1,37 @@
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\bin\Debug\RUNNER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\bin\Debug\RUNNER.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\bin\Debug\RUNNER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\obj\Debug\RUNNER.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\obj\Debug\RUNNER.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\obj\Debug\RUNNER.Properties.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\obj\Debug\RUNNER.csproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\obj\Debug\RUNNER.exe
+C:\Users\İbrahim Göktuğ ALHAN\Documents\Visual Studio 2017\Projects\RUNNER\RUNNER\obj\Debug\RUNNER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\bin\Debug\RUNNER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\bin\Debug\RUNNER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\bin\Debug\RUNNER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\RUNNER.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\RUNNER.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\RUNNER.Properties.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\RUNNER.csproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\RUNNER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\RUNNER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\bin\Debug\Interop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\Interop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Olan Projeyi Gösterici(C#)\RUNNER\obj\Debug\RUNNER.csproj.ResolveComReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Debug\Interop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\RUNNER.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\Interop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\RUNNER.csproj.ResolveComReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\RUNNER.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\RUNNER.Properties.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\RUNNER.csproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Debug\RUNNER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Debug\RUNNER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Debug\RUNNER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\RUNNER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Debug\RUNNER.pdb

@@ -1,0 +1,14 @@
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Release\LOADER.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Release\LOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Release\LOADER.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Release\Interop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\bin\Release\AxInterop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\RUNNER.csprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\Interop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\AxInterop.WMPLib.dll
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\RUNNER.csproj.ResolveComReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\RUNNER.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\RUNNER.Properties.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\RUNNER.csproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\LOADER.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\exoader\RUNNER\obj\Release\LOADER.pdb

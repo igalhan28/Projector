@@ -1,0 +1,37 @@
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\bin\Debug\Projector.exe.config
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\bin\Debug\Projector.exe
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\bin\Debug\Projector.pdb
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\bin\Debug\Projector.xml
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.Form1.resources
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.Resources.resources
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.vbproj.GenerateResource.Cache
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.exe
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.xml
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.pdb
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.Projector.resources
+c:\users\alhan-pc\documents\visual studio 2012\Projects\Projector\Projector\obj\Debug\Projector.Oluşturucu.resources
+C:\Users\alhan-pc\Documents\Visual Studio 2012\Projects\Projector\Projector\obj\Debug\Projector.Yenibirbaşlangıç.resources
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.Projector.resources
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.xml
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\bin\Debug\Projector.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\bin\Debug\Projector.exe
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\bin\Debug\Projector.pdb
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\bin\Debug\Projector.xml
+C:\Users\İbrahim Göktuğ ALHAN\Desktop\Projector\Projector\obj\Debug\Projector.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\bin\Debug\Projector.exe.config
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\bin\Debug\Projector.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\bin\Debug\Projector.pdb
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\bin\Debug\Projector.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.vbprojResolveAssemblyReference.cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.Form1.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.Resources.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.Projector.resources
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.vbproj.GenerateResource.Cache
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.exe
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.xml
+C:\Users\İbrahim Göktuğ ALHAN\OneDrive\Projector Source Code\Arayüz (VB.net)\Projector\obj\Debug\Projector.pdb
